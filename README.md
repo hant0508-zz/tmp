@@ -2,6 +2,6 @@
 
 s
 
-![img](https://raw.githubusercontent.com/hant0508/tmp/master/1.png) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/2.png)
+![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 1.gif) | ![img](https://raw.githubusercontent.com/hant0508/tmp/master/startup-settings/gif 2.gif)
 :---:|:---:
-text| there's some more text here
+t|t
